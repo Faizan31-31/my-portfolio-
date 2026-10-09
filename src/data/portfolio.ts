@@ -13,7 +13,7 @@ export const profile = {
   seriesTag: 'THE SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
   originalLabel: 'A DASARI ORIGINAL',
-  role:'AI-Assisted Web Developer',',
+  role:'AI-Assisted Web Developer',
   tagline: ['AI-Assisted Web Developer', 'Web Development', 'AI Tools'],
   intro:
     'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
