@@ -21,7 +21,7 @@ export const profile = {
   email: 'faizanalishd0201@gmail.com',
   links: {
     linkedin: 'https://www.linkedin.com/in/sushmita-dasari-227a40284/',
-    github: 'https://github.com/Sushmitadasari',
+    github: 'https://github.com/Faizan31-31',
   },
   resumePdf: '/assets/Sushmita_Dasari_Resume.pdf',
   portrait: {
