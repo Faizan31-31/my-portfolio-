@@ -16,9 +16,9 @@ export const profile = {
   role:'AI-Assisted Web Developer',
   tagline: ['AI-Assisted Web Developer', 'Web Development', 'AI Tools'],
   intro:
-    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
-  location: 'Surampalem, Andhra Pradesh',
-  email: 'sushmitadasari17@gmail.com',
+    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.'
+  location: 'Karachi , Pakistan',
+  email: 'faizanalishd0201@gmail.com',
   links: {
     linkedin: 'https://www.linkedin.com/in/sushmita-dasari-227a40284/',
     github: 'https://github.com/Sushmitadasari',
