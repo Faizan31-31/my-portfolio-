@@ -7,14 +7,14 @@
 export type Palette = { from: string; via: string; to: string; accent: string };
 
 export const profile = {
-  fullName: 'Dasari Venkata Ratna Sri Sushmita',
-  displayName: 'Sushmita Dasari',
-  firstName: 'SUSHMITA',
+  fullName: 'Syed faizan Ali',
+  displayName: 'Syed Faizan Ali',
+  firstName: 'Faizan',
   seriesTag: 'THE SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
   originalLabel: 'A DASARI ORIGINAL',
-  role: 'Full-Stack Developer',
-  tagline: ['Full-Stack Developer', 'AI / ML', 'Java'],
+  role:'AI-Assisted Web Developer',',
+  tagline: ['AI-Assisted Web Developer', 'Web Development', 'AI Tools'],
   intro:
     'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
   location: 'Surampalem, Andhra Pradesh',
