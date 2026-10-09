@@ -7,7 +7,7 @@
 export type Palette = { from: string; via: string; to: string; accent: string };
 
 export const profile = {
-  fullName: 'Syed faizan Ali',
+  fullName: 'Syed Faizan Ali',
   displayName: 'Syed Faizan Ali',
   firstName: 'Faizan',
   seriesTag: 'THE SERIES',
